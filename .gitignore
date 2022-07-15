@@ -6,8 +6,6 @@
 *.swp
 node_modules
 .hugo_build.lock
-public/
-docs/
 npm-debug.log
 /node_modules/*
 
